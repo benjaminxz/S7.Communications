@@ -1,0 +1,12 @@
+C:\Users\bjm\source\repos\S7.Communications\S7.Communications\bin\Debug\net6.0\S7.Communications.deps.json
+C:\Users\bjm\source\repos\S7.Communications\S7.Communications\bin\Debug\net6.0\S7.Communications.dll
+C:\Users\bjm\source\repos\S7.Communications\S7.Communications\bin\Debug\net6.0\S7.Communications.pdb
+C:\Users\bjm\source\repos\S7.Communications\S7.Communications\obj\Debug\net6.0\S7.Communications.csproj.AssemblyReference.cache
+C:\Users\bjm\source\repos\S7.Communications\S7.Communications\obj\Debug\net6.0\S7.Communications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjm\source\repos\S7.Communications\S7.Communications\obj\Debug\net6.0\S7.Communications.AssemblyInfoInputs.cache
+C:\Users\bjm\source\repos\S7.Communications\S7.Communications\obj\Debug\net6.0\S7.Communications.AssemblyInfo.cs
+C:\Users\bjm\source\repos\S7.Communications\S7.Communications\obj\Debug\net6.0\S7.Communications.csproj.CoreCompileInputs.cache
+C:\Users\bjm\source\repos\S7.Communications\S7.Communications\obj\Debug\net6.0\S7.Communications.dll
+C:\Users\bjm\source\repos\S7.Communications\S7.Communications\obj\Debug\net6.0\refint\S7.Communications.dll
+C:\Users\bjm\source\repos\S7.Communications\S7.Communications\obj\Debug\net6.0\S7.Communications.pdb
+C:\Users\bjm\source\repos\S7.Communications\S7.Communications\obj\Debug\net6.0\ref\S7.Communications.dll
