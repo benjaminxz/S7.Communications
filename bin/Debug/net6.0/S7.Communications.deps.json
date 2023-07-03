@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "S7.Communications/1.0.0": {
+        "dependencies": {
+          "S7netplus": "0.19.0"
+        },
+        "runtime": {
+          "S7.Communications.dll": {}
+        }
+      },
+      "S7netplus/0.19.0": {
+        "runtime": {
+          "lib/net5.0/S7.Net.dll": {
+            "assemblyVersion": "0.19.0.0",
+            "fileVersion": "0.19.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S7.Communications/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "S7netplus/0.19.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-46kTCGhNtAsiwsWsK3xuSrsWja+yBokmVJTpP3lm4ZzAt98BLwKm8+97N2024S+2wC9QDTaiPQAVFRHJtN0Fmg==",
+      "path": "s7netplus/0.19.0",
+      "hashPath": "s7netplus.0.19.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4MNGrxIcYwpYCC2VVbCTbGp1ZzeHFbgrsNiqRmcoai1FopdCWmLNwxkIQ/jsH5tXNP6UA+OPGP6LfAQ9tdmepA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bjm\\source\\repos\\S7.Communications\\S7.Communications\\S7.Communications.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bjm\\.nuget\\packages\\s7netplus\\0.19.0\\s7netplus.0.19.0.nupkg.sha512"
+  ],
+  "logs": []
+}
